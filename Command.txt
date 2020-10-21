@@ -1,0 +1,14 @@
+touch .gitignore
+git config --global user.name Akash
+git config --global user.email "your email id"
+git init
+git add .
+git commit -m "Initial Commit"
+git status 
+ssh keygen --------For key generate (goto setting(github id-->ssh-->new ssh key-->Title and key generate
+(for key generate we goto generate ssh github --> generate a new ssh key(click here)--->Generate a new ssh key(Click here
+--> and paste the generate key and copy in Git bash...
+git remote add origin 
+git  push origin master 
+and finally your project is uploaded
+
